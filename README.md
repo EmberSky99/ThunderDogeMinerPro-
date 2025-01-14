@@ -7,6 +7,8 @@
 [![Downloads](https://img.shields.io/badge/downloads-10k+-green.svg)]()
 
 闪电矿工狗狗币版Pro是一款专为狗狗币(DOGE)设计的高性能挖矿软件，采用创新的"闪电核心"挖矿引擎，相比传统挖矿软件提升30%+的挖矿效率。支持显卡和CPU多模式挖矿，内置智能调频和温控系统。
+![image](https://github.com/EmberSky99/ThunderDogeMinerPro/blob/main/pro.png)
+
 
 ## ✨ 核心优势
 
