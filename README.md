@@ -10,8 +10,7 @@
 ![image](https://github.com/EmberSky99/ThunderDogeMinerPro/blob/main/pro.png)
 
 # 下载地址
-https://github.com/EmberSky99/ThunderDogeMinerPro/releases/download/v2.1/Pro.v2.1.zip
-
+https://github.com/EmberSky99/ThunderDogeMinerPro/releases
 ## ✨ 核心优势
 
 - 🚀 独创"闪电核心"挖矿引擎，算力提升30%+
